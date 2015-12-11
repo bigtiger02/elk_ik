@@ -1,10 +1,8 @@
 # elk_ik
----
-This repo contains elk1.7.3, integrates elatisticsearch-analysis-ik plugin.IK is a plugin The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
+This repo contains elk1.7.3, integrates elatisticsearch-analysis-ik plugin.IK is a plugin The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.  
 #how to use it
----
 1. `git clone `
-2. './bin/elasticsearch -d'
+2. `./bin/elasticsearch -d`
 
 #Quick Example
 1.create a index
